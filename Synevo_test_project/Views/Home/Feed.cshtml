@@ -1,0 +1,9 @@
+﻿@model IList<Synevo_test_project.Entites.PokemonResult>
+
+@foreach (var x in Model)
+{
+
+    <div>@x.LastTime @x.Email заказал покемона уже @x.Count раз </div>
+
+
+}

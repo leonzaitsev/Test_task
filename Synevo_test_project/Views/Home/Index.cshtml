@@ -1,0 +1,32 @@
+﻿@model PokemonOrderModel
+
+
+
+
+<div class="row">
+    <div class="col text-center">
+        <form asp-action="Post">
+            <div>
+                <br/> <div class="validation" asp-validation-summary="All"></div>
+                <div>
+                    <br /><br /> <label asp-for="Name"> Name: </label><br />
+                    <input type="text" asp-for="Name" />
+                </div>
+
+                <div>
+                    <label asp-for="Email"> Email: </label><br />
+                    <input type="email" asp-for="Email" />
+                </div>
+
+                <div>
+                    <label asp-for="Phone"> Phone number: </label><br />
+                    <input type="tel" asp-for="Phone" />
+                   
+
+                </div>
+
+                <br /><input type="submit" value="Order" />
+            </div>
+        </form>
+    </div>
+</div>

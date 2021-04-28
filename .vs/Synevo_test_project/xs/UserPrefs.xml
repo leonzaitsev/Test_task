@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1DC89B6F-6DD3-49F7-9967-C09A7DD5A06C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Synevo_test_project/dbsettings.json">
+    <Files>
+      <File FileName="Synevo_test_project/Startup.cs" Line="36" Column="12" />
+      <File FileName="Synevo_test_project/Data/AppDBContent.cs" Line="16" Column="1" />
+      <File FileName="Synevo_test_project/dbsettings.json" Line="1" Column="1" />
+      <File FileName="Synevo_test_project/Data/Repository/PokemonRepository.cs" Line="1" Column="1" />
+      <File FileName="Synevo_test_project/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Synevo_test_project/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Synevo_test_project/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Synevo_test_project" expanded="True">
+            <Node name="Synevo_test_project" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="interfaces" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="dbsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Synevo__test__project PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
